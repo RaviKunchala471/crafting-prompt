@@ -105,13 +105,13 @@ If you don't name a target, the skill uses the model it is running on.
 Personal (available in every project):
 
 ```bash
-git clone https://github.com/<your-username>/crafting-prompt.git ~/.claude/skills/crafting-prompt
+git clone https://github.com/RaviKunchala471/crafting-prompt.git ~/.claude/skills/crafting-prompt
 ```
 
 Project-only (commit it so your team gets it too):
 
 ```bash
-git clone https://github.com/<your-username>/crafting-prompt.git .claude/skills/crafting-prompt
+git clone https://github.com/RaviKunchala471/crafting-prompt.git .claude/skills/crafting-prompt
 ```
 
 On Windows PowerShell, use `$HOME\.claude\skills\crafting-prompt` as the target path.
